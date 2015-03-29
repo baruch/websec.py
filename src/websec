@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+from webseclib.utility import run_utility
+run_utility()
